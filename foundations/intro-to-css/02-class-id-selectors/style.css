@@ -1,0 +1,22 @@
+.first {
+    color : rgb(1,1,1) ;
+    background-color: rgb(208, 101, 162) ;
+    font-family: "Verdana" , "DejaVu Sans", sans-serif;
+}
+
+.second {
+    font-size : 24px ;
+}
+
+#sectionone {
+    color : rgb(0, 0, 240) ;
+    font-size : 36px ;
+    
+}
+
+#sectiontwo {
+    color : rgb(0, 0, 0) ;
+    background-color: rgb(68, 248, 95) ;
+    font-size : 24px ;
+    font-weight: 900;
+}
